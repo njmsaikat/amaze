@@ -123,3 +123,19 @@ h3.heading {
 }
 
 ```
+
+> Sample Landing Page
+
+![](elements/amaze.jpg)
+
+### _View this Website in Live -_
+
+https://njmsaikat.github.io/amaze/
+
+> Contact With Developer:
+
+### Saikat Roy
+
+> Email: njmsaikat@gmail.com
+
+> Personal Portfolio: https://njmsaikat.github.io/saikat/
