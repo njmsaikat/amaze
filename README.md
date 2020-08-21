@@ -1,4 +1,14 @@
+# Amaze
 
+> A website model to spread positivity and bring life back to living
+
+**Using tools -**
+
+- HTML
+- CSS
+- SCSS
+- JavaScript
+- Bootstrap
 
 
 ## Features
