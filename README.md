@@ -134,14 +134,6 @@ h3.heading {
 https://njmsaikat.github.io/amaze/
 
 
-> Contact With Developer:
 
-### Saikat Roy
-
-> Email: njmsaikat@gmail.com
-
-> Personal Portfolio: https://njmsaikat.github.io/saikat/
-
-> Linked In Profile: https://www.linkedin.com/in/njmsaikat/
 
 
